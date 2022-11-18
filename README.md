@@ -1,1 +1,1 @@
-# term_work
+# Term work by Denis Vedernikov
